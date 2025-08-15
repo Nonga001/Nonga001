@@ -4,7 +4,7 @@
 - 👀 I’m interested in **Web Security** / **Reverse Engineering**
 - 🌱 I’m currently learning **building a Wecare Mobile App**
 - 💞️ I’m looking to collaborate on **GitHub**
-- 📫 Reach me via email at **info@lusule.com** or on **[Kaggle](https://www.kaggle.com/Nonga)**
+- 📫 Reach me via email at **nongasheldon@gmail.com** or on **[Kaggle](https://www.kaggle.com/Nonga)**
 
 ---
 
